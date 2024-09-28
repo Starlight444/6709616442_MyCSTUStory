@@ -281,3 +281,81 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+
+.container2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sleep{
+    background-color: #caff9e;
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 30%;
+}
+
+.work{
+    background-color: #9ef2ff;
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 30%;
+}
+.study{
+    background-color: #af9eff;
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 30%;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.money{
+    background-color: #fc99fc;
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 30%;
+}
+
+.hap{
+    background-color: #ffa3a5;
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 30%;
+}
+
+.do{
+    background-color: #97feda;
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 30%;
+}
+
+.container2 div img{
+    width: 120px;
+    height: auto;
+}
+
+.container3 div img{
+    width: 120px;
+    height: auto;
+}
+
+main{
+    text-align: center;
+}
