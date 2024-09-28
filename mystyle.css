@@ -108,6 +108,7 @@ h3{
 #music{
     margin: 0 auto;
     background-color: rgb(251, 255, 0);
+    display: flex;
 }
 
 .contact{
@@ -117,7 +118,7 @@ h3{
 }
 
 summary{
-    color: #ff0000;
+    color: red;
     text-decoration: underline;
 }
 
